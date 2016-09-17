@@ -10,3 +10,4 @@ Things you may want to cover:
 * Feature C
 
 * Feature B1
+* Feature B2
